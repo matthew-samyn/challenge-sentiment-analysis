@@ -13,6 +13,8 @@ credentials = {}
 credentials["API_KEY"] = "KyM0jVCxAhqsNqAsZ2nOm8H7j"
 credentials["API_KEY_SECRET"] = "MTo25vmP8W4YVKCRlYfigIEBlGsCOEIKBoxKFtFJxZiupwaaJK"
 credentials["BEARER_TOKEN"] = "AAAAAAAAAAAAAAAAAAAAALVMUgEAAAAAgrak%2BqrETp%2FJUhc%2FbgsS27qWWAI%3D4zb8Pz5iRpLENmpDvGKbLko8px3huB6MeALsxVQQRomfTf6ir0"
+credentials["CONSUMER_KEY"] = "matthew.samyn1@gmail.com"
+credentials["CONSUMER_SECRET"] = "Regenboog1"
 
 with open("twitter_credentials.json", "w") as file:
     json.dump(credentials, file)
