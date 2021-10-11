@@ -91,3 +91,12 @@ Prepare a readme file with all the insights that you have gathered about the sho
 _- Anonymous_
 
 ![Cheap sentiment!](https://media.giphy.com/media/QUTt5Dt63UOQM/giphy.gif)
+
+API KEY (username)
+KyM0jVCxAhqsNqAsZ2nOm8H7j
+
+API KEY SECRET (password)
+MTo25vmP8W4YVKCRlYfigIEBlGsCOEIKBoxKFtFJxZiupwaaJK
+
+Bearer Token (Access token)
+AAAAAAAAAAAAAAAAAAAAALVMUgEAAAAAgrak%2BqrETp%2FJUhc%2FbgsS27qWWAI%3D4zb8Pz5iRpLENmpDvGKbLko8px3huB6MeALsxVQQRomfTf6ir0
