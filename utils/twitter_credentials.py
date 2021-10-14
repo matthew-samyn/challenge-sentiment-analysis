@@ -16,5 +16,5 @@ credentials["BEARER_TOKEN"] = "AAAAAAAAAAAAAAAAAAAAALVMUgEAAAAAgrak%2BqrETp%2FJU
 credentials["CONSUMER_KEY"] = "4foLTMr6CL4IWGJX1AlL1E2Gu"
 credentials["CONSUMER_SECRET"] = "gZaUXnHazaFnAt774rmgwctmsTdMq2IQXF7ZdsKP65cxGL0I6J"
 
-with open("../files/twitter_credentials.json", "w") as file:
+with open("../app/files/twitter_credentials.json", "w") as file:
     json.dump(credentials, file)
