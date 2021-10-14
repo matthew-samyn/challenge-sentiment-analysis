@@ -18,13 +18,13 @@ if brooklyn_99_button == "Brooklyn 99":
 
     with plots:
         df = pd.read_csv("files/brooklyn99.csv")
-
         with st.spinner(f"""
         Processing {len(df)} tweets
         """):
-            df["sentiment"], df["cleaned_tweet"] = \
-                return_sentiments(df["text"])
+        #     df["sentiment"], df["cleaned_tweet"] = \
+        #         return_sentiments(df["text"])
             st.success(f"Processed {len(df)} tweets")
+        # df.to_csv("files/brooklyn99.csv", index=False)
 
         fig = show_sentiment_distribution(df["sentiment"], title="Brooklyn99 sentiment analysis")
         st.plotly_chart(fig, use_container_width=True)

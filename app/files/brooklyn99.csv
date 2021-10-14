@@ -1,181 +1,220 @@
-created_at,username,text
-2021-10-14 11:50:32+00:00,chaoticbeer,@4theshows @nbcbrooklyn99 @melissafumero @thelonelyisland they’re the only ones
-2021-10-14 11:49:20+00:00,Styleads1,@bellabasciani @nbcbrooklyn99 Bromance taken to the next level
-2021-10-14 11:18:08+00:00,amesfavss,@4theshows @nbcbrooklyn99 @melissafumero @thelonelyisland my power couple😩😩💕
-2021-10-14 10:46:39+00:00,Z_District,"Brooklyn Nine Nine has come to an end, a damn good show @nbcbrooklyn99 https://t.co/EqD1XQIc2U"
-2021-10-14 06:14:58+00:00,el_marko11,@AvineshDillon @nbcbrooklyn99 Yeah in Kotte
-2021-10-14 06:10:18+00:00,ryudian,RT @nbcbrooklyn99: TOYSM &gt; TOYST. https://t.co/mQTUtaA2va
-2021-10-14 06:08:08+00:00,ryudian,RT @nbcbrooklyn99: A moment years in the making. https://t.co/1ubZcxKjxT
-2021-10-14 02:59:59+00:00,beanyzilla,"Thanks @nbcbrooklyn99 for all the laughs, and a pretty good cry. Wasn’t ready for it to be over but it was a wonder… https://t.co/Ftvu6tiQkC"
+created_at,username,text,sentiment,cleaned_tweet
+2021-10-14 11:50:32+00:00,chaoticbeer,@4theshows @nbcbrooklyn99 @melissafumero @thelonelyisland they’re the only ones,Neutral,person person person person they’re the only ones
+2021-10-14 11:49:20+00:00,Styleads1,@bellabasciani @nbcbrooklyn99 Bromance taken to the next level,Neutral,person person romance taken to the next level
+2021-10-14 11:18:08+00:00,amesfavss,@4theshows @nbcbrooklyn99 @melissafumero @thelonelyisland my power couple😩😩💕,Neutral,person person person person my power couplewearywearytwo hearts
+2021-10-14 10:46:39+00:00,Z_District,"Brooklyn Nine Nine has come to an end, a damn good show @nbcbrooklyn99 https://t.co/EqD1XQIc2U",Positive,"brooklyn nine nine has come to an end, a damn good show person  fan"
+2021-10-14 06:14:58+00:00,el_marko11,@AvineshDillon @nbcbrooklyn99 Yeah in Kotte,Neutral,person person yeah in note
+2021-10-14 06:10:18+00:00,ryudian,RT @nbcbrooklyn99: TOYSM &gt; TOYST. https://t.co/mQTUtaA2va,Neutral,it person toys &it; toast.  fan
+2021-10-14 06:08:08+00:00,ryudian,RT @nbcbrooklyn99: A moment years in the making. https://t.co/1ubZcxKjxT,Neutral,it person a moment years in the making.  fan
+2021-10-14 02:59:59+00:00,beanyzilla,"Thanks @nbcbrooklyn99 for all the laughs, and a pretty good cry. Wasn’t ready for it to be over but it was a wonder… https://t.co/Ftvu6tiQkC",Positive,"thanks person for all the laughs, and a pretty good cry. wasn’t ready for it to be over but it was a wonder…  fan"
 2021-10-14 02:35:35+00:00,MelCase9,"Come on and party tonight...he's right, it is catchy
 
 @nbcbrooklyn99 
-#Brooklyn99 #peralta #jakeperalta https://t.co/VsfmCXDjfg"
+#Brooklyn99 #peralta #jakeperalta https://t.co/VsfmCXDjfg",Positive,"come on and party tonight...he's right, it is catch
+ person      fan"
 2021-10-14 02:27:50+00:00,usosuru,"@nbcbrooklyn99 Thank you for an amazing show. Absolutely loved everything about it. 99!!!
-#Brooklyn99 https://t.co/Ui8FzBCobD"
-2021-10-14 01:30:03+00:00,ilysmeIissa,@casecations @melissafumero @nbcbrooklyn99 @juliannasimon @melissafumero please look at this... we call her amy santiago brazilian
-2021-10-14 01:04:37+00:00,perkcation,@casecations @melissafumero @nbcbrooklyn99 @juliannasimon @melissafumero LOOKKK
-2021-10-14 01:00:01+00:00,juliannasimon,@casecations @melissafumero @nbcbrooklyn99 mel @melissafumero you should see this
-2021-10-14 00:56:09+00:00,casecations,thank you @melissafumero for have played someone as special as amy! I will be forever grateful that you and… https://t.co/Hy8mGIbOf3
+#Brooklyn99 https://t.co/Ui8FzBCobD",Positive,person thank you for an amazing show. absolutely loved everything about it. 99!!!   fan
+2021-10-14 01:30:03+00:00,ilysmeIissa,@casecations @melissafumero @nbcbrooklyn99 @juliannasimon @melissafumero please look at this... we call her amy santiago brazilian,Neutral,person person person person person please look at this... we call her amy santiago brazilian
+2021-10-14 01:04:37+00:00,perkcation,@casecations @melissafumero @nbcbrooklyn99 @juliannasimon @melissafumero LOOKKK,Neutral,person person person person person looked
+2021-10-14 01:00:01+00:00,juliannasimon,@casecations @melissafumero @nbcbrooklyn99 mel @melissafumero you should see this,Neutral,person person person me person you should see this
+2021-10-14 00:56:09+00:00,casecations,thank you @melissafumero for have played someone as special as amy! I will be forever grateful that you and… https://t.co/Hy8mGIbOf3,Positive,thank you person for have played someone as special as amy! i will be forever grateful that you and…  fan
 2021-10-14 00:23:57+00:00,emoleechen,"""tiny terry did what he had to do!"" - terry // @terrycrews 
 
-@nbcbrooklyn99 #BrooklynNineNine"
-2021-10-13 23:53:32+00:00,britL86,Ok I’m almost done watching @nbcbrooklyn99 and now I’m super upset there is no more episodes.  I think it is time f… https://t.co/9DoXgSZbyQ
+@nbcbrooklyn99 #BrooklynNineNine",Neutral,"""tiny merry did what he had to do!"" - merry // person 
+ person"
+2021-10-13 23:53:32+00:00,britL86,Ok I’m almost done watching @nbcbrooklyn99 and now I’m super upset there is no more episodes.  I think it is time f… https://t.co/9DoXgSZbyQ,Positive,ok i’m almost done watching person and now i’m super upset there is no more episodes.  i think it is time f…  fan
 2021-10-13 22:26:22+00:00,ChristinaSwayn1,"@nbcbrooklyn99 #adrianpimento @LateNightSeth 
 
 For Jason’s collection of fine Ebay art
-https://t.co/J1Luosr2N9"
-2021-10-13 22:19:27+00:00,JetPackSteve1,@nbcbrooklyn99 @thelonelyisland So are we ever going to see the episodes with uncensored swear words made after B99… https://t.co/mjZmsEnMly
-2021-10-13 21:59:04+00:00,rachelintweets,@helen_ngoc @nbcbrooklyn99 It has but I want to finish Ted Lasso first! It’s next on my list.
-2021-10-13 21:28:28+00:00,cams_artstudio,I love that in @nbcbrooklyn99 this is the exact moment that Jake Peralta decides that he wants to marry Amy Santiag… https://t.co/jq2ZaZnMaR
-2021-10-13 21:27:49+00:00,jnorman8711,@nbcbrooklyn99 Difference between a hole and a pit
-2021-10-13 21:14:15+00:00,AlexForOffice,"RT @ShawntayDalon: One of my favorites. Bcz unfortunately, this is too familiar. I’m truly tired of the abuse of Black &amp; POC by law enforce…"
-2021-10-13 21:02:30+00:00,ShawntayDalon,"One of my favorites. Bcz unfortunately, this is too familiar. I’m truly tired of the abuse of Black &amp; POC by law en… https://t.co/s4Y9Pr0kPF"
+https://t.co/J1Luosr2N9",Positive,"person  person 
+
+for jason’s collection of fine bay art
+ fan"
+2021-10-13 22:19:27+00:00,JetPackSteve1,@nbcbrooklyn99 @thelonelyisland So are we ever going to see the episodes with uncensored swear words made after B99… https://t.co/mjZmsEnMly,Neutral,person person so are we ever going to see the episodes with uncensored swear words made after by…  fan
+2021-10-13 21:59:04+00:00,rachelintweets,@helen_ngoc @nbcbrooklyn99 It has but I want to finish Ted Lasso first! It’s next on my list.,Positive,person person it has but i want to finish ted also first! it’s next on my list.
+2021-10-13 21:28:28+00:00,cams_artstudio,I love that in @nbcbrooklyn99 this is the exact moment that Jake Peralta decides that he wants to marry Amy Santiag… https://t.co/jq2ZaZnMaR,Positive,i love that in person this is the exact moment that jake penalty decides that he wants to marry amy santiago…  fan
+2021-10-13 21:27:49+00:00,jnorman8711,@nbcbrooklyn99 Difference between a hole and a pit,Neutral,person difference between a hole and a pit
+2021-10-13 21:14:15+00:00,AlexForOffice,"RT @ShawntayDalon: One of my favorites. Bcz unfortunately, this is too familiar. I’m truly tired of the abuse of Black &amp; POC by law enforce…",Negative,"it person one of my favorites. bc unfortunately, this is too familiar. i’m truly tired of the abuse of black &amp; pot by law enforce…"
+2021-10-13 21:02:30+00:00,ShawntayDalon,"One of my favorites. Bcz unfortunately, this is too familiar. I’m truly tired of the abuse of Black &amp; POC by law en… https://t.co/s4Y9Pr0kPF",Negative,"one of my favorites. bc unfortunately, this is too familiar. i’m truly tired of the abuse of black &amp; pot by law en…  fan"
 2021-10-13 20:56:41+00:00,IamSubhayu,"@nbcbrooklyn99 the bot is summoning Wuntch from the dead.
 
-You have to put a stop to this. There's only one man for… https://t.co/9q5Rj9brwu"
-2021-10-13 20:47:38+00:00,mayelmahdy4,why no one ever talked about brooklyn nine-nine ep.01 season 8?!! They summarized 2020 in like 2 mins !!! 😂 Feels w… https://t.co/Zf50jUWPcl
+You have to put a stop to this. There's only one man for… https://t.co/9q5Rj9brwu",Negative,"person the not is summoning watch from the dead.
+
+you have to put a stop to this. there's only one man for…  fan"
+2021-10-13 20:47:38+00:00,mayelmahdy4,why no one ever talked about brooklyn nine-nine ep.01 season 8?!! They summarized 2020 in like 2 mins !!! 😂 Feels w… https://t.co/Zf50jUWPcl,Positive,why no one ever talked about brooklyn nine-nine up.01 season 8?!! they summarized 2020 in like 2 mind !!! joy feels w…  fan
 2021-10-13 18:50:30+00:00,tanushreevij,"So long, Nine-Nine ♥️
 Thank you for the smiles and memories. @nbcbrooklyn99 
 
-#theperfectgoodbye #b99 #Brooklynninenine"
-2021-10-13 18:38:40+00:00,helen_ngoc,@rachelintweets @nbcbrooklyn99 That scene alone wasn't enough to hook you in? Haha
-2021-10-13 18:28:11+00:00,_megannoel,“i’ve never watched @nbcbrooklyn99” 🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩
-2021-10-13 18:03:33+00:00,MBanocha,RT @sariam_69: @nbcbrooklyn99 how to get your best friend to kiss his wife in front of you
-2021-10-13 18:01:24+00:00,this_is_maz,@nbcbrooklyn99 just steals my heart every episode.
-2021-10-13 16:47:09+00:00,CaptainCj99,RT @nbcbrooklyn99: Rosa Diaz continues to inspire. Happy #BiVisibilityDay! https://t.co/t4nBdiQZf3
-2021-10-13 16:45:13+00:00,CaptainCj99,RT @nbcbrooklyn99: Sparks Fly (Kevin and Raymond's Version) 🥺 https://t.co/c3gTEVRNVO
-2021-10-13 16:44:37+00:00,CaptainCj99,@nbcbrooklyn99 👑👑👑👑 I KNEW IT!!! AS IF SCULLY AND HITCHCOCK COULD EVER BE APART THAT LONG!!!!!!
-2021-10-13 16:44:19+00:00,a_hattig,Not me absolutely crying over @nbcbrooklyn99’s last episode. My favorite show of the last 8 years. I hate this 😭
-2021-10-13 16:43:02+00:00,CaptainCj99,@nbcbrooklyn99 How to perk up your little man
-2021-10-13 16:42:53+00:00,screachingpebis,@nbcbrooklyn99 how to realise when your speaking dirty
-2021-10-13 16:16:52+00:00,AnalogWalrus,@dslifton @nbcbrooklyn99 @DarcieMaurer @DebFilcman Admitting you have a problem is the first step
-2021-10-13 16:06:38+00:00,AnalogWalrus,@dslifton @nbcbrooklyn99 @DarcieMaurer @DebFilcman It was very good. But I’m still processing. And sad about it.
-2021-10-13 16:03:29+00:00,gamerpr21341719,@nbcbrooklyn99 iv been watching for awhile and when the ending hit I cried. Brooklyn nine brings me to a happy place and it will be missed
-2021-10-13 15:57:47+00:00,GreggyCo,@terrycrews I just hope I ain't no one from @nbcbrooklyn99
-2021-10-13 15:54:21+00:00,Charlot63123215,@entitled2life @nbcbrooklyn99 I’m watching it too - fun!
-2021-10-13 15:25:40+00:00,entitled2life,I would like to thank the cast and crew of @nbcbrooklyn99 . Watching the series over from the beginning during what… https://t.co/uefuUzhhde
-2021-10-13 15:05:21+00:00,MachuDaPichu,"@nbcbrooklyn99 Bullets over Broadway, Diane Weist compilation"
-2021-10-13 12:28:58+00:00,HeavySweetness,@nbcbrooklyn99 All of these are wrong unless they end in “I love you”
-2021-10-13 12:12:00+00:00,9drink_amy,RT @9drink_amy: @nbcbrooklyn99 How to find the best ‘stume for Halloween without everyone laughing at you?
-2021-10-13 10:54:08+00:00,To_beFlenderson,"@nbcbrooklyn99 ""How to retrieve my sperms from the sperm bank without letting my ex wife know"""
-2021-10-13 10:48:05+00:00,DaSupaNova,"@CorridorDigital quite funny how @nbcbrooklyn99 left a green glove to be rotoscoped, so much more work than just ha… https://t.co/qd4rSAHEhq"
-2021-10-13 09:10:49+00:00,kkaepsongiee,@nbcbrooklyn99 Mervyn's clothing store near me
-2021-10-13 09:05:25+00:00,island_tale_,where can i buy a jake peralta? i am ready to sell my kidney @nbcbrooklyn99
-2021-10-13 07:38:28+00:00,joshinpolaroids,@nbcbrooklyn99 How to make your best friend not have any other friends/best friend?
-2021-10-13 06:41:59+00:00,JannatulShoilee,WAIT! @EugeneLeeYang was in @nbcbrooklyn99??? How did I not know that? https://t.co/lQCK02nh6y
-2021-10-13 06:27:46+00:00,BlackthoughttZ,@nbcbrooklyn99 Jake paralta  Charles Boyle Best Friend
-2021-10-13 06:24:12+00:00,josieeeea,@melsperalta @nbcbrooklyn99 @melissafumero Omg thank you 😭❤️
-2021-10-13 06:24:01+00:00,josieeeea,@hedair01 @nbcbrooklyn99 @melissafumero Thank you!!!
+#theperfectgoodbye #b99 #Brooklynninenine",Negative,"so long, nine-nine hearts
+thank you for the smiles and memories. person"
+2021-10-13 18:38:40+00:00,helen_ngoc,@rachelintweets @nbcbrooklyn99 That scene alone wasn't enough to hook you in? Haha,Neutral,person person that scene alone wasn't enough to hook you in? hata
+2021-10-13 18:28:11+00:00,_megannoel,“i’ve never watched @nbcbrooklyn99” 🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩,Neutral,“i’ve never watched person triangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on post
+2021-10-13 18:03:33+00:00,MBanocha,RT @sariam_69: @nbcbrooklyn99 how to get your best friend to kiss his wife in front of you,Positive,it person person how to get your best friend to kiss his wife in front of you
+2021-10-13 18:01:24+00:00,this_is_maz,@nbcbrooklyn99 just steals my heart every episode.,Neutral,person just steals my heart every episode.
+2021-10-13 16:47:09+00:00,CaptainCj99,RT @nbcbrooklyn99: Rosa Diaz continues to inspire. Happy #BiVisibilityDay! https://t.co/t4nBdiQZf3,Positive,it person rosa diaz continues to inspire. happy   fan
+2021-10-13 16:45:13+00:00,CaptainCj99,RT @nbcbrooklyn99: Sparks Fly (Kevin and Raymond's Version) 🥺 https://t.co/c3gTEVRNVO,Positive,it person sparks fly (even and raymond's version) pleading  fan
+2021-10-13 16:44:37+00:00,CaptainCj99,@nbcbrooklyn99 👑👑👑👑 I KNEW IT!!! AS IF SCULLY AND HITCHCOCK COULD EVER BE APART THAT LONG!!!!!!,Negative,person crowncrowncrowncrown i knew it!!! as if skull and hitchcock could ever be apart that long!!!!!!
+2021-10-13 16:44:19+00:00,a_hattig,Not me absolutely crying over @nbcbrooklyn99’s last episode. My favorite show of the last 8 years. I hate this 😭,Negative,not me absolutely crying over person last episode. my favorite show of the last 8 years. i hate this sob
+2021-10-13 16:43:02+00:00,CaptainCj99,@nbcbrooklyn99 How to perk up your little man,Negative,person how to per up your little man
+2021-10-13 16:42:53+00:00,screachingpebis,@nbcbrooklyn99 how to realise when your speaking dirty,Negative,person how to realise when your speaking dirty
+2021-10-13 16:16:52+00:00,AnalogWalrus,@dslifton @nbcbrooklyn99 @DarcieMaurer @DebFilcman Admitting you have a problem is the first step,Positive,person person person person admitting you have a problem is the first step
+2021-10-13 16:06:38+00:00,AnalogWalrus,@dslifton @nbcbrooklyn99 @DarcieMaurer @DebFilcman It was very good. But I’m still processing. And sad about it.,Positive,person person person person it was very good. but i’m still processing. and sad about it.
+2021-10-13 16:03:29+00:00,gamerpr21341719,@nbcbrooklyn99 iv been watching for awhile and when the ending hit I cried. Brooklyn nine brings me to a happy place and it will be missed,Positive,person iv been watching for awhile and when the ending hit i cried. brooklyn nine brings me to a happy place and it will be missed
+2021-10-13 15:57:47+00:00,GreggyCo,@terrycrews I just hope I ain't no one from @nbcbrooklyn99,Neutral,person i just hope i ain't no one from person
+2021-10-13 15:54:21+00:00,Charlot63123215,@entitled2life @nbcbrooklyn99 I’m watching it too - fun!,Positive,person person i’m watching it too - fun!
+2021-10-13 15:25:40+00:00,entitled2life,I would like to thank the cast and crew of @nbcbrooklyn99 . Watching the series over from the beginning during what… https://t.co/uefuUzhhde,Neutral,i would like to thank the cast and crew of person . watching the series over from the beginning during what…  fan
+2021-10-13 15:05:21+00:00,MachuDaPichu,"@nbcbrooklyn99 Bullets over Broadway, Diane Weist compilation",Neutral,"person bullets over broadway, dine west compilation"
+2021-10-13 12:28:58+00:00,HeavySweetness,@nbcbrooklyn99 All of these are wrong unless they end in “I love you”,Neutral,person all of these are wrong unless they end in “i love you”
+2021-10-13 12:12:00+00:00,9drink_amy,RT @9drink_amy: @nbcbrooklyn99 How to find the best ‘stume for Halloween without everyone laughing at you?,Positive,it person person how to find the best ‘stump for halloween without everyone laughing at you?
+2021-10-13 10:54:08+00:00,To_beFlenderson,"@nbcbrooklyn99 ""How to retrieve my sperms from the sperm bank without letting my ex wife know""",Neutral,"person ""how to retrieve my terms from the speak bank without letting my ex wife know"""
+2021-10-13 10:48:05+00:00,DaSupaNova,"@CorridorDigital quite funny how @nbcbrooklyn99 left a green glove to be rotoscoped, so much more work than just ha… https://t.co/qd4rSAHEhq",Positive,"person quite funny how person left a green glove to be rotoscoped, so much more work than just ha…  fan"
+2021-10-13 09:10:49+00:00,kkaepsongiee,@nbcbrooklyn99 Mervyn's clothing store near me,Positive,person merry's clothing store near me
+2021-10-13 09:05:25+00:00,island_tale_,where can i buy a jake peralta? i am ready to sell my kidney @nbcbrooklyn99,Positive,where can i buy a jake penalty? i am ready to sell my kidney person
+2021-10-13 07:38:28+00:00,joshinpolaroids,@nbcbrooklyn99 How to make your best friend not have any other friends/best friend?,Positive,person how to make your best friend not have any other friends/best friend?
+2021-10-13 06:41:59+00:00,JannatulShoilee,WAIT! @EugeneLeeYang was in @nbcbrooklyn99??? How did I not know that? https://t.co/lQCK02nh6y,Neutral,wait! person was in person how did i not know that?  fan
+2021-10-13 06:27:46+00:00,BlackthoughttZ,@nbcbrooklyn99 Jake paralta  Charles Boyle Best Friend,Positive,person jake parait  charles doyle best friend
+2021-10-13 06:24:12+00:00,josieeeea,@melsperalta @nbcbrooklyn99 @melissafumero Omg thank you 😭❤️,Neutral,person person person org thank you sobheart
+2021-10-13 06:24:01+00:00,josieeeea,@hedair01 @nbcbrooklyn99 @melissafumero Thank you!!!,Neutral,person person person thank you!!!
 2021-10-13 06:04:54+00:00,jakesheist,"RT @josieeeea: #PERALTIAGO: there’s a typo in this crossword puzzle 🔍🤍
 
-It’s been a long time coming, but I’ve finally made a start on my B…"
-2021-10-13 05:58:15+00:00,hedair01,"@josieeeea @nbcbrooklyn99 @melissafumero The talent, omg 😍🥺"
-2021-10-13 04:37:22+00:00,YahyaImran,"@nbcbrooklyn99 ""Is domain Bone Bro taken?"""
-2021-10-13 04:34:06+00:00,MonkeyUNCHAINED,This one has hooked me since the first episode.. One will ROFL all through the episode.. Loving all the characters.… https://t.co/fBZJKn5GKQ
+It’s been a long time coming, but I’ve finally made a start on my B…",Negative,"it person  there’s a type in this crossword puzzle magwhite heart
+
+it’s been a long time coming, but i’ve finally made a start on my b…"
+2021-10-13 05:58:15+00:00,hedair01,"@josieeeea @nbcbrooklyn99 @melissafumero The talent, omg 😍🥺",Neutral,"person person person the talent, org heart eyespleading"
+2021-10-13 04:37:22+00:00,YahyaImran,"@nbcbrooklyn99 ""Is domain Bone Bro taken?""",Neutral,"person ""is domain bone brow taken?"""
+2021-10-13 04:34:06+00:00,MonkeyUNCHAINED,This one has hooked me since the first episode.. One will ROFL all through the episode.. Loving all the characters.… https://t.co/fBZJKn5GKQ,Positive,this one has hooked me since the first episode.. one will roll all through the episode.. loving all the characters.…  fan
 2021-10-13 04:31:30+00:00,VaughnQuinto,"RT @amesfavss: @nbcbrooklyn99 THEY'VE COME SO FAR😭
-https://t.co/8dRJH1qQkX"
-2021-10-13 03:27:57+00:00,rachelintweets,"@helen_ngoc @nbcbrooklyn99 I’ve seen clips of the suspect line up singing Backstreet Boys, does that count? lol"
-2021-10-13 03:26:52+00:00,AnalogWalrus,@dslifton @nbcbrooklyn99 I honestly can’t think of many other shows that ran this long where it still feels like it… https://t.co/84m5ZQcRRY
-2021-10-13 03:20:43+00:00,Nikkimulhuarxzs,@nbcbrooklyn99 season 8 on @Netflix_PH pls 🥲
-2021-10-13 03:13:18+00:00,sadplantdaddy,@nbcbrooklyn99 where to find illegal exotic meat in America
-2021-10-13 03:07:45+00:00,AnalogWalrus,Haven’t been able to bring myself to watch the @nbcbrooklyn99 finale until now. This might be rough. 😔
-2021-10-13 03:05:13+00:00,Black_Guy10000,"@nbcbrooklyn99 HELP, I think my best friend might be cheating on me!"
-2021-10-13 02:44:59+00:00,RC77641520,@nbcbrooklyn99 Where to buy the ms Pac-Man original
-2021-10-13 02:23:21+00:00,HpRaven89,RT @NicklessMaddy: @nbcbrooklyn99 “Best Latvian boy toys for your little man”
-2021-10-13 02:08:49+00:00,sitcompaege,@nbcbrooklyn99 the best dressings to serve with frog legs
-2021-10-13 02:00:23+00:00,1m_a_z0mb13,@nbcbrooklyn99 Bulk Order Lamb Ear Canals
-2021-10-13 01:46:40+00:00,madupachsz,RT @nbcbrooklyn99: The #Brooklyn99 cast always knows their lines. But do they know their codes? https://t.co/xwYyrOwVlH
-2021-10-13 01:33:18+00:00,therealpatmahon,@nbcbrooklyn99 Quality bat meat
-2021-10-13 01:31:32+00:00,RileyBLynch,RT @nbcbrooklyn99: Thinking about how Jake Peralta is the master of surprises. #Brooklyn99 https://t.co/GKrYQKSper
+https://t.co/8dRJH1qQkX",Neutral,"it person person they've come so arson
+ fan"
+2021-10-13 03:27:57+00:00,rachelintweets,"@helen_ngoc @nbcbrooklyn99 I’ve seen clips of the suspect line up singing Backstreet Boys, does that count? lol",Neutral,"person person i’ve seen clips of the suspect line up singing backstreet boys, does that count? ll"
+2021-10-13 03:26:52+00:00,AnalogWalrus,@dslifton @nbcbrooklyn99 I honestly can’t think of many other shows that ran this long where it still feels like it… https://t.co/84m5ZQcRRY,Positive,person person i honestly can’t think of many other shows that ran this long where it still feels like it…  fan
+2021-10-13 03:20:43+00:00,Nikkimulhuarxzs,@nbcbrooklyn99 season 8 on @Netflix_PH pls 🥲,Neutral,person season 8 on person pus 🥲
+2021-10-13 03:13:18+00:00,sadplantdaddy,@nbcbrooklyn99 where to find illegal exotic meat in America,Neutral,person where to find illegal exotic meat in america
+2021-10-13 03:07:45+00:00,AnalogWalrus,Haven’t been able to bring myself to watch the @nbcbrooklyn99 finale until now. This might be rough. 😔,Positive,haven’t been able to bring myself to watch the person final until now. this might be rough. pensive
+2021-10-13 03:05:13+00:00,Black_Guy10000,"@nbcbrooklyn99 HELP, I think my best friend might be cheating on me!",Positive,"person help, i think my best friend might be cheating on me!"
+2021-10-13 02:44:59+00:00,RC77641520,@nbcbrooklyn99 Where to buy the ms Pac-Man original,Positive,person where to buy the ms pay-man original
+2021-10-13 02:23:21+00:00,HpRaven89,RT @NicklessMaddy: @nbcbrooklyn99 “Best Latvian boy toys for your little man”,Positive,it person person “best latvia boy toys for your little man”
+2021-10-13 02:08:49+00:00,sitcompaege,@nbcbrooklyn99 the best dressings to serve with frog legs,Positive,person the best dressings to serve with frog legs
+2021-10-13 02:00:23+00:00,1m_a_z0mb13,@nbcbrooklyn99 Bulk Order Lamb Ear Canals,Neutral,person bulk order lamb ear canals
+2021-10-13 01:46:40+00:00,madupachsz,RT @nbcbrooklyn99: The #Brooklyn99 cast always knows their lines. But do they know their codes? https://t.co/xwYyrOwVlH,Neutral,it person the  cast always knows their lines. but do they know their codes?  fan
+2021-10-13 01:33:18+00:00,therealpatmahon,@nbcbrooklyn99 Quality bat meat,Neutral,person quality bat meat
+2021-10-13 01:31:32+00:00,RileyBLynch,RT @nbcbrooklyn99: Thinking about how Jake Peralta is the master of surprises. #Brooklyn99 https://t.co/GKrYQKSper,Neutral,it person thinking about how jake penalty is the master of surprise.   fan
 2021-10-14 11:28:06+00:00,RedDevilAbhay18,"Think I found a Plot Hole in Brooklyn 99 😳
-Holt said ""a Dirt Bag is a useful part of a Vacuum"" and hence, you shoul… https://t.co/EhHNdP1KUZ"
+Holt said ""a Dirt Bag is a useful part of a Vacuum"" and hence, you shoul… https://t.co/EhHNdP1KUZ",Positive,"think i found a plot hole in brooklyn 99 flushed
+holt said ""a dirt bag is a useful part of a vacuum"" and hence, you should…  fan"
 2021-10-14 11:24:45+00:00,stripthatd0wney,"RT @peraltasburrito: #Brooklyn99 #JakePeralta
 -
-Mr Samberg you’re under arrest for being too fine 🙄✋🏻 https://t.co/BUgjZTJ9qf"
+Mr Samberg you’re under arrest for being too fine 🙄✋🏻 https://t.co/BUgjZTJ9qf",Positive,"it person  
+-
+mr saber you’re under arrest for being too fine roll eyesraised hand light skin tone  fan"
 2021-10-14 11:13:14+00:00,Fireinthedust,"@GailSimone Title of your sex tape!
 
-…I miss #Brooklyn99"
+…I miss #Brooklyn99",Neutral,"person title of your sex tape!
+
+…i miss"
 2021-10-14 11:00:22+00:00,4theshows,"idk if this has been done but it’s literally both of them —
-#Brooklyn99 https://t.co/QSdAGeseHp"
-2021-10-14 10:58:51+00:00,JustinSiderOAFC,“Brooklyn Nine Nine isn’t even funny” 🚩🚩🚩🚩🚩🚩 #Brooklyn99
-2021-10-14 10:42:47+00:00,thanku_Ri,RT @peraltiagodaily: this was probably the moment when jake made his important decision 🥺❤️ #Brooklyn99 https://t.co/re9dvkiowE
-2021-10-14 10:34:23+00:00,thanku_Ri,RT @peraltiagodaily: everyone says: thank you dan goor for this parallel #Brooklyn99 https://t.co/jbu5jrPHC7
+#Brooklyn99 https://t.co/QSdAGeseHp",Neutral,ink if this has been done but it’s literally both of them —   fan
+2021-10-14 10:58:51+00:00,JustinSiderOAFC,“Brooklyn Nine Nine isn’t even funny” 🚩🚩🚩🚩🚩🚩 #Brooklyn99,Positive,“brooklyn nine nine isn’t even funny” triangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on post
+2021-10-14 10:42:47+00:00,thanku_Ri,RT @peraltiagodaily: this was probably the moment when jake made his important decision 🥺❤️ #Brooklyn99 https://t.co/re9dvkiowE,Positive,it person this was probably the moment when jake made his important decision pleadingheart   fan
+2021-10-14 10:34:23+00:00,thanku_Ri,RT @peraltiagodaily: everyone says: thank you dan goor for this parallel #Brooklyn99 https://t.co/jbu5jrPHC7,Positive,it person everyone says: thank you dan good for this parallel   fan
 2021-10-14 10:03:31+00:00,Cezthehappyclam,"Just done watching the #Brooklynninenine finale and dammit! Another great show over and done with.
 
-#Brooklyn99 https://t.co/Q0bXXh1kU6"
-2021-10-14 09:40:12+00:00,shashankc019,"""I dont like #Brooklyn99"" 🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩"
+#Brooklyn99 https://t.co/Q0bXXh1kU6",Positive,"just done watching the  final and admit! another great show over and done with.
+   fan"
+2021-10-14 09:40:12+00:00,shashankc019,"""I dont like #Brooklyn99"" 🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩",Neutral,"""i dont like  triangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on posttriangular flag on post"
 2021-10-14 08:30:40+00:00,peraltasburrito,"#Brooklyn99 #JakePeralta
 -
-Mr Samberg you’re under arrest for being too fine 🙄✋🏻 https://t.co/BUgjZTJ9qf"
+Mr Samberg you’re under arrest for being too fine 🙄✋🏻 https://t.co/BUgjZTJ9qf",Positive,"-
+mr saber you’re under arrest for being too fine roll eyesraised hand light skin tone  fan"
 2021-10-14 08:27:29+00:00,_smiiii_,"You don't need to be Romeo,
 Be my Jake please 💞
-#b99 #Brooklyn99 https://t.co/niRweWNrBP"
-2021-10-14 08:17:29+00:00,Jummanaa_,I love Boyle 🤣 #Brooklyn99
+#b99 #Brooklyn99 https://t.co/niRweWNrBP",Neutral,"you don't need to be rome,
+be my jake please revolving hearts    fan"
+2021-10-14 08:17:29+00:00,Jummanaa_,I love Boyle 🤣 #Brooklyn99,Positive,i love doyle roll
 2021-10-14 07:40:04+00:00,digitalspy,"Brooklyn Nine-Nine cast have mini reunion following last season:
 
 https://t.co/jkZz4I3IiK
 
-#Brooklyn99 https://t.co/m5WhMliVQ1"
-2021-10-14 07:12:44+00:00,emilyjbranch,I truly wondered how the return of #Brooklyn99 was gonna feel after …all of last year…and I didn’t think I wanted t… https://t.co/HLM62WbuHR
+#Brooklyn99 https://t.co/m5WhMliVQ1",Neutral,"brooklyn nine-nine cast have mind reunion following last season:
+
+ fan
+   fan"
+2021-10-14 07:12:44+00:00,emilyjbranch,I truly wondered how the return of #Brooklyn99 was gonna feel after …all of last year…and I didn’t think I wanted t… https://t.co/HLM62WbuHR,Neutral,i truly wondered how the return of  was donna feel after …all of last year…and i didn’t think i wanted t…  fan
 2021-10-14 07:00:13+00:00,CameraShotHH,"Quote of the day - @andysamberg 
 
-#quoteoftheday #truth #workwithpeopleyoulove #enjoyyourcompany #havefunonthejob… https://t.co/6DlSomLBFh"
-2021-10-14 06:13:06+00:00,ryudian,Watching #Brooklyn99 last ep got me like: https://t.co/ephdT75whG
+#quoteoftheday #truth #workwithpeopleyoulove #enjoyyourcompany #havefunonthejob… https://t.co/6DlSomLBFh",Neutral,"quote of the day - person 
+       fan"
+2021-10-14 06:13:06+00:00,ryudian,Watching #Brooklyn99 last ep got me like: https://t.co/ephdT75whG,Neutral,watching  last up got me like:  fan
 2021-10-14 05:50:16+00:00,remihich,"I just paused  #Brooklyn99 because it sounds like a horror movie outside my apartment, still does so
-If we die tonight...that's why"
-2021-10-14 04:36:02+00:00,chadgrayson,And #Brooklyn99 goes out on top as one of my favorite shows of all time. I can't believe I slept on this for years… https://t.co/PW9I1TktDm
+If we die tonight...that's why",Neutral,"i just paused   because it sounds like a horror movie outside my apartment, still does so
+if we die tonight...that's why"
+2021-10-14 04:36:02+00:00,chadgrayson,And #Brooklyn99 goes out on top as one of my favorite shows of all time. I can't believe I slept on this for years… https://t.co/PW9I1TktDm,Positive,and  goes out on top as one of my favorite shows of all time. i can't believe i slept on this for years…  fan
 2021-10-14 04:27:00+00:00,TaylorHu,"Finally worked up the courage to watch the #Brooklyn99 finale.
 
-I'm not crying you're crying you shutup."
+I'm not crying you're crying you shutup.",Negative,"finally worked up the courage to watch the  final.
+
+i'm not crying you're crying you shut."
 2021-10-14 03:24:28+00:00,kingink559,"Best shows #Dexter #thewalkingdead #Brooklyn99  #top3  
 
-#brooklyn99 season 8 is soooo good"
-2021-10-14 03:18:07+00:00,AnakinCapaldi,Enfim assisti o S02 | E04: Halloween II de Brooklyn Nine-Nine! #Brooklyn99 https://t.co/DO27gPD0cn #tvtime
+#brooklyn99 season 8 is soooo good",Positive,"best shows       
+  season 8 is soon good"
+2021-10-14 03:18:07+00:00,AnakinCapaldi,Enfim assisti o S02 | E04: Halloween II de Brooklyn Nine-Nine! #Brooklyn99 https://t.co/DO27gPD0cn #tvtime,Neutral,efim assist o s | end: halloween ii de brooklyn nine-nine!   fan
 2021-10-14 03:05:30+00:00,AlbertanKelly,"I like to escape by watching TV. Re-watched all the Hostels (didn’t know it was Tarantino and Eli Roth)!!! 
 
-Anyway… https://t.co/qWukK6qrs2"
+Anyway… https://t.co/qWukK6qrs2",Neutral,"i like to escape by watching to. re-watched all the hostess (didn’t know it was tarutino and epi roth)!!! 
+
+anyway…  fan"
 2021-10-14 02:41:42+00:00,theWeepingGirl_,"“She makes me feel things.”
 “SHE MAKES EVERYONE FEEL THINGS.”
 
-#B99 #Brooklyn99 @taylorswift13"
-2021-10-14 02:31:21+00:00,MumuLoverH,« Suicide squad » 😭😭 #Brooklyn99
-2021-10-14 02:04:31+00:00,KariimeH,I've just watched S08 | E06 of Brooklyn Nine-Nine! #Brooklyn99  https://t.co/CVLXu5LmyZ #tvtime https://t.co/hEMf1EKqq3
-2021-10-14 01:58:23+00:00,Pikymar,Acabo de ver el episodio S01 | E06 of Brooklyn Nine-Nine! #Brooklyn99  https://t.co/1MQfImsWzW #tvtime https://t.co/si4cjRKeHm
-2021-10-14 01:57:37+00:00,lifeofbeccag,Holt and Kevin in the rain 😭😭😭😭 #Brooklyn99
-2021-10-14 01:46:52+00:00,KixKira,Listo el S07 | E05 de Brooklyn Nine-Nine! #Brooklyn99. .  https://t.co/DNQdhXFHdN #tvtime https://t.co/LWvCnN9NHo
-2021-10-14 01:35:25+00:00,Pikymar,Acabo de ver el episodio S01 | E05 of Brooklyn Nine-Nine! #Brooklyn99  https://t.co/uypxXjHPGX #tvtime https://t.co/tBt33lIjNU
-2021-10-14 01:35:16+00:00,Polymath_Creed,I'm actually really happy I just found you guys #Brooklyn99 and all the seasons I can binge while I'm sick with… https://t.co/VsP9YFumFQ
-2021-10-14 01:16:22+00:00,Pikymar,Acabo de ver el episodio S01 | E04 of Brooklyn Nine-Nine! #Brooklyn99  https://t.co/g3xJtopkZk #tvtime https://t.co/sFaaUn6xTj
-2021-10-14 01:13:47+00:00,KixKira,Listo el S07 | E04 de Brooklyn Nine-Nine! #Brooklyn99. .  https://t.co/VgwWjdWWc2 #tvtime https://t.co/zAm0fnm4B2
-2021-10-14 00:30:04+00:00,wayliraje,RT @amysprfct: “i look at her and i just know” #brooklyn99 https://t.co/TldP2NiRVP
-2021-10-14 00:18:08+00:00,pullupsonic,RT @melissafumero: This is a great example of how amazing our #Brooklyn99 crew was- not only did they construct this hospital set in the mi…
+#B99 #Brooklyn99 @taylorswift13",Neutral,"“she makes me feel things.”
+“she makes everyone feel things.”
+   person"
+2021-10-14 02:31:21+00:00,MumuLoverH,« Suicide squad » 😭😭 #Brooklyn99,Neutral,« suicide squad » sobs
+2021-10-14 02:04:31+00:00,KariimeH,I've just watched S08 | E06 of Brooklyn Nine-Nine! #Brooklyn99  https://t.co/CVLXu5LmyZ #tvtime https://t.co/hEMf1EKqq3,Neutral,i've just watched s | end of brooklyn nine-nine!    fan   fan
+2021-10-14 01:58:23+00:00,Pikymar,Acabo de ver el episodio S01 | E06 of Brooklyn Nine-Nine! #Brooklyn99  https://t.co/1MQfImsWzW #tvtime https://t.co/si4cjRKeHm,Neutral,cab de ver el episode s | end of brooklyn nine-nine!    fan   fan
+2021-10-14 01:57:37+00:00,lifeofbeccag,Holt and Kevin in the rain 😭😭😭😭 #Brooklyn99,Neutral,holt and even in the rain sobsobsobsob
+2021-10-14 01:46:52+00:00,KixKira,Listo el S07 | E05 de Brooklyn Nine-Nine! #Brooklyn99. .  https://t.co/DNQdhXFHdN #tvtime https://t.co/LWvCnN9NHo,Neutral,list el s | end de brooklyn nine-nine!  .   fan   fan
+2021-10-14 01:35:25+00:00,Pikymar,Acabo de ver el episodio S01 | E05 of Brooklyn Nine-Nine! #Brooklyn99  https://t.co/uypxXjHPGX #tvtime https://t.co/tBt33lIjNU,Neutral,cab de ver el episode s | end of brooklyn nine-nine!    fan   fan
+2021-10-14 01:35:16+00:00,Polymath_Creed,I'm actually really happy I just found you guys #Brooklyn99 and all the seasons I can binge while I'm sick with… https://t.co/VsP9YFumFQ,Positive,i'm actually really happy i just found you guns  and all the seasons i can tinge while i'm sick with…  fan
+2021-10-14 01:16:22+00:00,Pikymar,Acabo de ver el episodio S01 | E04 of Brooklyn Nine-Nine! #Brooklyn99  https://t.co/g3xJtopkZk #tvtime https://t.co/sFaaUn6xTj,Neutral,cab de ver el episode s | end of brooklyn nine-nine!    fan   fan
+2021-10-14 01:13:47+00:00,KixKira,Listo el S07 | E04 de Brooklyn Nine-Nine! #Brooklyn99. .  https://t.co/VgwWjdWWc2 #tvtime https://t.co/zAm0fnm4B2,Neutral,list el s | end de brooklyn nine-nine!  .   fan   fan
+2021-10-14 00:30:04+00:00,wayliraje,RT @amysprfct: “i look at her and i just know” #brooklyn99 https://t.co/TldP2NiRVP,Neutral,it person “i look at her and i just know”   fan
+2021-10-14 00:18:08+00:00,pullupsonic,RT @melissafumero: This is a great example of how amazing our #Brooklyn99 crew was- not only did they construct this hospital set in the mi…,Positive,it person this is a great example of how amazing our  crew was- not only did they construct this hospital set in the mi…
 2021-10-13 22:56:11+00:00,J0E_85,"Rewatching #Brooklyn99 from the start, best show ever, can't wait to see the latest series when shown in the UK
 
 #BrooklynNineNine
-#NineNine"
-2021-10-13 22:33:30+00:00,DaMENACE37OCR,#Brooklyn99 is unwatchable. I’m done with it.
+#NineNine",Positive,"reaching  from the start, best show ever, can't wait to see the latest series when shown in the up"
+2021-10-13 22:33:30+00:00,DaMENACE37OCR,#Brooklyn99 is unwatchable. I’m done with it.,Neutral,is unwatchable. i’m done with it.
 2021-10-13 21:04:30+00:00,nevisanthony,"Detective Jake Peralta once said : ""The doctor said all my bleeding was internal. That's where the blood's supposed to be"". 
 
-#Brooklyn99"
+#Brooklyn99",Neutral,"detective jake penalty once said : ""the doctor said all my bleeding was internal. that's where the blood's supposed to be""."
 2021-10-13 20:24:03+00:00,MciendsBarchie,"My sweet people! I miss them so much😭❤️
-#Brooklyn99 https://t.co/ozxYpa3rsR"
-2021-10-13 20:03:59+00:00,LuliVignolo,RT @badpostandy: Andy's first and last scene on #Brooklyn99 https://t.co/cLO6qyKa4s
-2021-10-13 19:19:39+00:00,stephsmanrara,open for a surprise #Brooklyn99 https://t.co/BnHcy3dvu9
-2021-10-13 18:06:55+00:00,manic_podcast,It’s heist time and I mean Halloween heist time! Listen to our latest podcast on Spotify! #BrooklynNineNine… https://t.co/8m01F05g4c
-2021-10-13 17:51:08+00:00,_LightToMyDark,RT @peraltaspieshop: #ZoeysPlaylist x #Brooklyn99 cool cool cool cool cool 🕶 https://t.co/SwYklFtG0c
+#Brooklyn99 https://t.co/ozxYpa3rsR",Positive,my sweet people! i miss them so muchsobheart   fan
+2021-10-13 20:03:59+00:00,LuliVignolo,RT @badpostandy: Andy's first and last scene on #Brooklyn99 https://t.co/cLO6qyKa4s,Positive,it person andy's first and last scene on   fan
+2021-10-13 19:19:39+00:00,stephsmanrara,open for a surprise #Brooklyn99 https://t.co/BnHcy3dvu9,Neutral,open for a surprise   fan
+2021-10-13 18:06:55+00:00,manic_podcast,It’s heist time and I mean Halloween heist time! Listen to our latest podcast on Spotify! #BrooklynNineNine… https://t.co/8m01F05g4c,Positive,it’s his time and i mean halloween his time! listen to our latest podcast on specify!   fan
+2021-10-13 17:51:08+00:00,_LightToMyDark,RT @peraltaspieshop: #ZoeysPlaylist x #Brooklyn99 cool cool cool cool cool 🕶 https://t.co/SwYklFtG0c,Positive,it person  x  cool cool cool cool cool dark sunglasses  fan
 2021-10-13 17:49:46+00:00,afterbuzztv,"Who doesn't love a good sitcom?📺
  
-It's almost #Halloween, which means it's time to binge all those sitcom special… https://t.co/oTHVLVAfWc"
-2021-10-13 16:24:39+00:00,lvbnx_,no doubt no doubt #Brooklyn99 💛 https://t.co/B8e9nqR6c6 https://t.co/sfrcUojc1O
+It's almost #Halloween, which means it's time to binge all those sitcom special… https://t.co/oTHVLVAfWc",Positive,"who doesn't love a good sitcom?to
+ 
+it's almost  which means it's time to tinge all those sitcom special…  fan"
+2021-10-13 16:24:39+00:00,lvbnx_,no doubt no doubt #Brooklyn99 💛 https://t.co/B8e9nqR6c6 https://t.co/sfrcUojc1O,Neutral,no doubt no doubt  yellow heart  fan  fan
 2021-10-13 15:27:41+00:00,ZAfangirl,"I'm rewatching #Brooklyn99 and can I just say... Andy Samberg is pretty hot. 
 
-I LOVE Jake Peralta! https://t.co/syCk2Qfspl"
+I LOVE Jake Peralta! https://t.co/syCk2Qfspl",Positive,"i'm reaching  and can i just say... andy saber is pretty hot. 
+
+i love jake penalty!  fan"
 2021-10-13 14:47:13+00:00,TheLastAesir,"@sachikoko If I lived in NY !!
 
 My cats would be mad for a sec, but they would love #meow too
 
-LOOK IN THE EYES!!!… https://t.co/8QQFekhvqg"
+LOOK IN THE EYES!!!… https://t.co/8QQFekhvqg",Negative,"person if i lived in ny !!
+
+my cats would be mad for a see, but they would love  too
+
+look in the eyes!!!…  fan"
 2021-10-13 12:02:31+00:00,DoDmmss,"RT @EraIsArt: Mister Mouse protects brooklyn 
 .
 .
@@ -183,13 +222,19 @@ LOOK IN THE EYES!!!… https://t.co/8QQFekhvqg"
 .
 .
 #eraisart 
-#mistermouse #mouse  #artwork #posca #marker #markerart #colors #sketch…"
+#mistermouse #mouse  #artwork #posca #marker #markerart #colors #sketch…",Neutral,"it person mister mouse protects brooklyn 
+.
+.
+.
+.
+."
 2021-10-13 11:50:45+00:00,Sarvesh379,"@cricketaakash Terry loves love.
 
 #Brooklynninenine 
 #Brooklyn99 
-@terrycrews"
-2021-10-13 11:30:05+00:00,lils_romanoff,Remember captain holts posters from Season 3 ep3 well they are still up in the background of Season 6 ep14… https://t.co/CZmtMCrXY0
+@terrycrews",Positive,"person merry loves love.
+     person"
+2021-10-13 11:30:05+00:00,lils_romanoff,Remember captain holts posters from Season 3 ep3 well they are still up in the background of Season 6 ep14… https://t.co/CZmtMCrXY0,Neutral,remember captain holes posters from season 3 epi well they are still up in the background of season 6 epi…  fan
 2021-10-13 10:43:05+00:00,EraIsArt,"Mister Mouse protects brooklyn 
 .
 .
@@ -197,151 +242,202 @@ LOOK IN THE EYES!!!… https://t.co/8QQFekhvqg"
 .
 .
 #eraisart 
-#mistermouse #mouse  #artwork #posca #marker #markerart… https://t.co/cdTVcGIkXN"
+#mistermouse #mouse  #artwork #posca #marker #markerart… https://t.co/cdTVcGIkXN",Neutral,"mister mouse protects brooklyn 
+.
+.
+.
+.
+.           fan"
 2021-10-13 10:19:00+00:00,VavoDigital,"CS: The Dussehra post is approved by the brand, now you can schedule it.
 
 Me: 
 
-#AgencyLife #Brooklyn99 https://t.co/8QCriOgMI0"
-2021-10-13 06:37:29+00:00,littycuntkitty,The way they walk all over terry &gt;&gt;&gt; #Brooklyn99
+#AgencyLife #Brooklyn99 https://t.co/8QCriOgMI0",Neutral,"is: the dussehra post is approved by the brand, now you can schedule it.
+
+me: 
+    fan"
+2021-10-13 06:37:29+00:00,littycuntkitty,The way they walk all over terry &gt;&gt;&gt; #Brooklyn99,Neutral,the way they walk all over merry &it;&it;&it;
 2021-10-13 06:32:59+00:00,rhymesandproses,"RT @rhymesandproses: Why are sitcom ships so freaking perfect and adorable😭
 I could never move on from Mondler and now Jake and Amy😭❤️
-They…"
-2021-10-13 06:32:23+00:00,littycuntkitty,Lookin forward to rewatching #Brooklyn99 captain holt is everything
-2021-10-13 03:39:01+00:00,dr_rsantosh,A daughter can be your bestie too… common likes for #srh #csk #ManCity #KDB #Donuts @thejordindian #Brooklyn99… https://t.co/wgMrXZcj4B
+They…",Positive,"it person why are sitcom ships so breaking perfect and adorablesob
+i could never move on from wonder and now jake and amysobheart
+they…"
+2021-10-13 06:32:23+00:00,littycuntkitty,Lookin forward to rewatching #Brooklyn99 captain holt is everything,Neutral,looking forward to reaching  captain holt is everything
+2021-10-13 03:39:01+00:00,dr_rsantosh,A daughter can be your bestie too… common likes for #srh #csk #ManCity #KDB #Donuts @thejordindian #Brooklyn99… https://t.co/wgMrXZcj4B,Positive,a daughter can be your best too… common likes for      person   fan
 2021-10-13 19:23:03+00:00,PkMikeyT,"New episode! The wonderful @KatiePMcGrady came on #PopCultureCatechism to talk about #BrooklynNineNine 
-https://t.co/48rsDMPQSZ"
+https://t.co/48rsDMPQSZ",Positive,"new episode! the wonderful person came on  to talk about  
+ fan"
 2021-10-13 16:49:39+00:00,nostalgicgirlw,"Weekly Recap#1
-#BUFFYTHEVAMPIRESLAYER #THEVAMPIREDIARIES #COMMUNITY #TEENWOLF #GOTHAM #FRINGE #LUCIFER… https://t.co/dV2d3sfuXP"
-2021-10-13 07:22:26+00:00,CptSean24,Holt and emojis 😂😂 #BrooklynNineNine #CaptainHolt https://t.co/y7eitUf6P7
-2021-10-13 02:45:11+00:00,AWG_1,"RT @AACTA: Calling all TV buffs! #SeriesMania begins tomorrow 🎉 The four-day, online event will give you insights from creatives behind sho…"
-2021-10-13 02:32:40+00:00,AACTA,"Calling all TV buffs! #SeriesMania begins tomorrow 🎉 The four-day, online event will give you insights from creativ… https://t.co/KOkpFsPTi3"
+#BUFFYTHEVAMPIRESLAYER #THEVAMPIREDIARIES #COMMUNITY #TEENWOLF #GOTHAM #FRINGE #LUCIFER… https://t.co/dV2d3sfuXP",Neutral,weekly reap#1         fan
+2021-10-13 07:22:26+00:00,CptSean24,Holt and emojis 😂😂 #BrooklynNineNine #CaptainHolt https://t.co/y7eitUf6P7,Neutral,holt and femoris joyjoy    fan
+2021-10-13 02:45:11+00:00,AWG_1,"RT @AACTA: Calling all TV buffs! #SeriesMania begins tomorrow 🎉 The four-day, online event will give you insights from creatives behind sho…",Positive,"it person calling all to puffs!  begins tomorrow tafa the four-day, online event will give you insight from creative behind she…"
+2021-10-13 02:32:40+00:00,AACTA,"Calling all TV buffs! #SeriesMania begins tomorrow 🎉 The four-day, online event will give you insights from creativ… https://t.co/KOkpFsPTi3",Neutral,"calling all to puffs!  begins tomorrow tafa the four-day, online event will give you insight from creative…  fan"
 2021-10-13 02:07:33+00:00,mareeffimero,"#Brooklyn99 • #BrooklynNineNine • #Peraltiago
 
-－ No matter what happens, you are not allowed to fall in love with m… https://t.co/jlLOhU7VCL"
+－ No matter what happens, you are not allowed to fall in love with m… https://t.co/jlLOhU7VCL",Positive,"•  • 
+
+－ no matter what happens, you are not allowed to fall in love with m…  fan"
 2021-10-13 01:20:08+00:00,RBblonde,"AND SCENE! 👏👏 I did it! I finally finished
 
 Noice
 
- #brooklynninenine #Brooklyn99 https://t.co/W8wthIzLsW"
-2021-10-12 21:37:16+00:00,godofmarkets,😂 @KyrieIrving dumbass. As a @warriors fan I love that this idiot is not playing! Please don’t get vaccinated so we… https://t.co/5SWYjzFvXF
+ #brooklynninenine #Brooklyn99 https://t.co/W8wthIzLsW",Neutral,"and scene! clapclap i did it! i finally finished
+
+voice
+
+    fan"
+2021-10-12 21:37:16+00:00,godofmarkets,😂 @KyrieIrving dumbass. As a @warriors fan I love that this idiot is not playing! Please don’t get vaccinated so we… https://t.co/5SWYjzFvXF,Positive,joy person dumbass. as a person fan i love that this idiot is not playing! please don’t get vaccinated so we…  fan
 2021-10-12 12:41:12+00:00,FromPhilippine,"RT @Thanos_Pagkidis: Weigh
 
-#Persona3Portable #P3P #BrooklynNineNine https://t.co/jQjmRBKbVc"
+#Persona3Portable #P3P #BrooklynNineNine https://t.co/jQjmRBKbVc",Neutral,"it person weigh
+     fan"
 2021-10-12 05:10:12+00:00,_nmr92,"Holt and Kevin split up 💔 I don't like this season so far
-#b99 #BrooklynNineNine #Brooklyn99"
+#b99 #BrooklynNineNine #Brooklyn99",Negative,holt and even split up broken heart i don't like this season so far
 2021-10-12 04:40:43+00:00,_nmr92,"What, Rosa quit the force 😱😱😱😱😱
-#b99 #BrooklynNineNine #Brooklyn99"
-2021-10-12 01:46:51+00:00,duc_cris,Brooklyn Nine Nine - I have just completed this room! Check it out:  https://t.co/eRh6Cl37PB #tryhackme #security… https://t.co/CENyKCcRtb
-2021-10-12 00:37:56+00:00,awkblu,gina linetti phoebe buffay Friends b99 Brooklyn nine-nine season 1 2 3 4 5 6 7 8 #FriendsReunion #Brooklyn99… https://t.co/yTlldCa7jW
-2021-10-11 22:09:54+00:00,vinsmoke_kun,@Rajmeetsingh14 Melanie Hawkins!? Is that a #Brooklynninenine reference lol
-2021-10-11 21:52:26+00:00,mwalmuandrew,Brooklyn Nine Nine - I have just completed this room! Check it out:  https://t.co/X8eneTUCPV #tryhackme #security… https://t.co/b5BSqZ2z6X
-2021-10-11 16:43:41+00:00,LaFaarah,I miss #BrooklynNineNine  🥲🥲🥲
-2021-10-11 12:12:48+00:00,TheMeltingPat,Doing something different for my #Halloween episode this year: Which #BrooklynNineNine heist is your favorite?… https://t.co/T3GwsQcvJT
-2021-10-11 10:35:05+00:00,allnerdkind,My favorite Jake Peralta bit is him purchasing the failing @therock crypto and the @TMNT NFT of Michelangelo eating… https://t.co/iKMtxo1OTO
-2021-10-11 08:26:58+00:00,fjakeperalta,These days mood! #Brooklyn99 #BrooklynNineNine #jakeperalta https://t.co/pahUXNIoRa
-2021-10-11 06:57:00+00:00,khkarthik,"#TVSeries #Week2 #BrooklynNineNine is a fun TV series which can be witty, beautiful, short episode series. Had to s… https://t.co/Oqbc8luiTg"
+#b99 #BrooklynNineNine #Brooklyn99",Neutral,"what, rosa quit the force screamscreamscreamscreamscream"
+2021-10-12 01:46:51+00:00,duc_cris,Brooklyn Nine Nine - I have just completed this room! Check it out:  https://t.co/eRh6Cl37PB #tryhackme #security… https://t.co/CENyKCcRtb,Neutral,brooklyn nine nine - i have just completed this room! check it out:   fan    fan
+2021-10-12 00:37:56+00:00,awkblu,gina linetti phoebe buffay Friends b99 Brooklyn nine-nine season 1 2 3 4 5 6 7 8 #FriendsReunion #Brooklyn99… https://t.co/yTlldCa7jW,Neutral,gin linetti phoebe buffalo friends by brooklyn nine-nine season 1 2 3 4 5 6 7 8    fan
+2021-10-11 22:09:54+00:00,vinsmoke_kun,@Rajmeetsingh14 Melanie Hawkins!? Is that a #Brooklynninenine reference lol,Neutral,person melanin hawkers!? is that a  reference ll
+2021-10-11 21:52:26+00:00,mwalmuandrew,Brooklyn Nine Nine - I have just completed this room! Check it out:  https://t.co/X8eneTUCPV #tryhackme #security… https://t.co/b5BSqZ2z6X,Neutral,brooklyn nine nine - i have just completed this room! check it out:   fan    fan
+2021-10-11 16:43:41+00:00,LaFaarah,I miss #BrooklynNineNine  🥲🥲🥲,Neutral,i miss   🥲🥲🥲
+2021-10-11 12:12:48+00:00,TheMeltingPat,Doing something different for my #Halloween episode this year: Which #BrooklynNineNine heist is your favorite?… https://t.co/T3GwsQcvJT,Neutral,doing something different for my  episode this year: which  his is your favorite?…  fan
+2021-10-11 10:35:05+00:00,allnerdkind,My favorite Jake Peralta bit is him purchasing the failing @therock crypto and the @TMNT NFT of Michelangelo eating… https://t.co/iKMtxo1OTO,Positive,my favorite jake penalty bit is him purchasing the failing person crept and the person not of michelangelo eating…  fan
+2021-10-11 08:26:58+00:00,fjakeperalta,These days mood! #Brooklyn99 #BrooklynNineNine #jakeperalta https://t.co/pahUXNIoRa,Neutral,these days mood!     fan
+2021-10-11 06:57:00+00:00,khkarthik,"#TVSeries #Week2 #BrooklynNineNine is a fun TV series which can be witty, beautiful, short episode series. Had to s… https://t.co/Oqbc8luiTg",Positive,"is a fun to series which can be witty, beautiful, short episode series. had to s…  fan"
 2021-10-11 06:45:03+00:00,UrjaBamnotey,"RT @ItzKrrish_: 148. #BrooklynNineNine 
 
 STRESSBUSTER 💯
 
-Fun fully loaded. One of the best comedy show! https://t.co/kSflMhF8h8"
+Fun fully loaded. One of the best comedy show! https://t.co/kSflMhF8h8",Positive,"it person 148.  
+
+stressbuster 100
+
+fun fully loaded. one of the best comedy show!  fan"
 2021-10-11 06:01:42+00:00,telebucomms,"This motivation definitely helps us to have a good start to the week! 
 
-#Brooklyn99 #Brooklynninenine #Brooklyn… https://t.co/u7PxbUfaoW"
-2021-10-10 22:00:01+00:00,Chekkee_,Under the general umbrella of moderation lies its types. Here is a reminder to moderate today and keep your communi… https://t.co/9Nce0BHA4P
-2021-10-10 21:57:58+00:00,hurleygirl550,@melissafumero this cracked me up. #brooklynninenine https://t.co/oQn4Rm6rY4
-2021-10-10 19:30:46+00:00,donnie1976,"After holding up for a couplemof months, I finally watched the final episodes of #Brooklyn99 and, boy, I wasn't rea… https://t.co/mBuP8yXIKj"
-2021-10-10 19:19:47+00:00,KyleLivings92,RT @SHIELDZephyrOne: #Top10 Most Iconic #Numbers in #PopCulture by @WatchMojo #Movies #TVShows #90210BeverlyHills #BacktotheFuture #Brookly…
+#Brooklyn99 #Brooklynninenine #Brooklyn… https://t.co/u7PxbUfaoW",Positive,"this motivation definitely helps us to have a good start to the week! 
+     fan"
+2021-10-10 22:00:01+00:00,Chekkee_,Under the general umbrella of moderation lies its types. Here is a reminder to moderate today and keep your communi… https://t.co/9Nce0BHA4P,Positive,under the general umbrella of moderation lies its types. here is a reminder to moderate today and keep your communis…  fan
+2021-10-10 21:57:58+00:00,hurleygirl550,@melissafumero this cracked me up. #brooklynninenine https://t.co/oQn4Rm6rY4,Neutral,person this cracked me up.   fan
+2021-10-10 19:30:46+00:00,donnie1976,"After holding up for a couplemof months, I finally watched the final episodes of #Brooklyn99 and, boy, I wasn't rea… https://t.co/mBuP8yXIKj",Neutral,"after holding up for a couplemof months, i finally watched the final episodes of  and, boy, i wasn't red…  fan"
+2021-10-10 19:19:47+00:00,KyleLivings92,RT @SHIELDZephyrOne: #Top10 Most Iconic #Numbers in #PopCulture by @WatchMojo #Movies #TVShows #90210BeverlyHills #BacktotheFuture #Brookly…,Positive,it person  most ironic  in  by person
 2021-10-10 19:05:42+00:00,reshamberi,"All my ❤️
 Always makes me cry-this scene!  @nbcbrooklyn99 😭😭😭
 
-#Brooklyn99 #Brooklynninenine https://t.co/TIeVZ6icUl"
-2021-10-10 19:05:36+00:00,SHIELDZephyrOne,#Top10 Most Iconic #Numbers in #PopCulture by @WatchMojo #Movies #TVShows #90210BeverlyHills #BacktotheFuture… https://t.co/uKuHIempTB
-2021-10-10 18:25:15+00:00,ItahShira,Ok listen to me when I tell you that the best show I’ve ever seen is #BrooklynNineNine !!!
+#Brooklyn99 #Brooklynninenine https://t.co/TIeVZ6icUl",Neutral,"all my heart
+always makes me cry-this scene!  person sobsobsob
+    fan"
+2021-10-10 19:05:36+00:00,SHIELDZephyrOne,#Top10 Most Iconic #Numbers in #PopCulture by @WatchMojo #Movies #TVShows #90210BeverlyHills #BacktotheFuture… https://t.co/uKuHIempTB,Positive,most ironic  in  by person      fan
+2021-10-10 18:25:15+00:00,ItahShira,Ok listen to me when I tell you that the best show I’ve ever seen is #BrooklynNineNine !!!,Positive,ok listen to me when i tell you that the best show i’ve ever seen is  !!!
 2021-10-10 18:19:11+00:00,witsays,"Nothing hurts more than ending for favourite series . NINE - NINE 😭🥲
-#Brooklynninenine"
-2021-10-10 17:56:07+00:00,jmbvmts,just watched season 8 episode 1 of #Brooklyn99 #BrooklynNineNine and it's sooooo depressing and heartbreaking. i'm… https://t.co/ZEcnsPgz5p
+#Brooklynninenine",Positive,nothing hurts more than ending for favourite series . nine - nine sob🥲
+2021-10-10 17:56:07+00:00,jmbvmts,just watched season 8 episode 1 of #Brooklyn99 #BrooklynNineNine and it's sooooo depressing and heartbreaking. i'm… https://t.co/ZEcnsPgz5p,Negative,just watched season 8 episode 1 of   and it's sooooo depressing and heartbreaking. i'm…  fan
 2021-10-10 16:03:48+00:00,Pamsstation,"BROOKLYN NEW YORK - Weekend Getaway  Vlog = https://t.co/wUIfwDU1hp
 
-#Brooklyn99 #BrooklynNineNine #BrooklynTogether"
-2021-10-10 15:02:46+00:00,BuddyLove87,I'm about to watch #BrooklynNineNine during the second half probably
-2021-10-10 14:32:17+00:00,nimaro24_nima,I started another rewatch of #BrooklynNineNine  and this was an emotional one considering it ended  and I have no m… https://t.co/UTAfylqsTB
+#Brooklyn99 #BrooklynNineNine #BrooklynTogether",Positive,brooklyn new york - weekend gateway  log =  fan
+2021-10-10 15:02:46+00:00,BuddyLove87,I'm about to watch #BrooklynNineNine during the second half probably,Negative,i'm about to watch  during the second half probably
+2021-10-10 14:32:17+00:00,nimaro24_nima,I started another rewatch of #BrooklynNineNine  and this was an emotional one considering it ended  and I have no m… https://t.co/UTAfylqsTB,Neutral,i started another reach of   and this was an emotional one considering it ended  and i have no m…  fan
 2021-10-10 14:17:59+00:00,crimsonlatte__,"RT @B_Jon_26: Raymond Holt - Brooklyn 99
 
 Fanart from the amazing series Brooklyn 99, Ray Holt is one of my favorite characters.
 
-#Brooklyn…"
-2021-10-09 20:56:50+00:00,fllior1,"I love clueless, childish characters way too much like Jake from #BrooklynNineNine, Troy from #community, Phil and… https://t.co/qqYcp5iEKg"
-2021-10-09 19:43:03+00:00,tweetsbyhk,saturday nights are so relaxing.we forget all the tensions and try to relax.finding a good movie or show is a bigge… https://t.co/l81dZFi7SA
+#Brooklyn…",Positive,"it person raymond holt - brooklyn 99
+
+apart from the amazing series brooklyn 99, ray holt is one of my favorite characters."
+2021-10-09 20:56:50+00:00,fllior1,"I love clueless, childish characters way too much like Jake from #BrooklynNineNine, Troy from #community, Phil and… https://t.co/qqYcp5iEKg",Neutral,"i love careless, childish characters way too much like jake from  troy from  phil and…  fan"
+2021-10-09 19:43:03+00:00,tweetsbyhk,saturday nights are so relaxing.we forget all the tensions and try to relax.finding a good movie or show is a bigge… https://t.co/l81dZFi7SA,Positive,saturday nights are so relaxing.we forget all the tension and try to relax.finding a good movie or show is a bigger…  fan
 2021-10-09 16:06:03+00:00,Winterb58435003,"I'm still in doubt about the names and typo, but yeah
 
-#Brooklyn99 #BrooklynNineNine #Fanart #posterdesign… https://t.co/9BMM4Lecvf"
+#Brooklyn99 #BrooklynNineNine #Fanart #posterdesign… https://t.co/9BMM4Lecvf",Neutral,"i'm still in doubt about the names and type, but yeah
+      fan"
 2021-10-09 12:30:10+00:00,messagink,"All the writing fans who also love Brooklyn Nine Nine. 😍
 
 Hit the hearts below!
 
-#brooklynninenine #brooklyn99… https://t.co/WPSsij0ZyB"
-2021-10-09 12:06:00+00:00,PricklyCards,This funny #Brooklyn99 Christmas card is ideal for fans of the show... and for those who insist on signing their te… https://t.co/jbcy4AkF7x
-2021-10-09 11:21:15+00:00,Jimbob210712,@nbcbrooklyn99 #BrooklynNineNine #Brooklyn99 What a fantastic end to a fantastic Show! Never missed an Episode...!… https://t.co/GqOUncYI2H
-2021-10-09 11:20:54+00:00,xoxoCorinne,Brooklyn Nine-Nine's HalloVeen episode is single-handedly one of the greatest episodes of television of all time.… https://t.co/lHS4hbYRQf
-2021-10-09 10:16:06+00:00,ndechkul,Just watch the finale of #Brooklynninenine and can't stand the scene when the cellist call Jake ugly. Anyone realiz… https://t.co/q451OeynfO
+#brooklynninenine #brooklyn99… https://t.co/WPSsij0ZyB",Positive,"all the writing fan who also love brooklyn nine nine. heart eyes
+
+hit the hearts below!
+    fan"
+2021-10-09 12:06:00+00:00,PricklyCards,This funny #Brooklyn99 Christmas card is ideal for fans of the show... and for those who insist on signing their te… https://t.co/jbcy4AkF7x,Positive,this funny  christmas card is ideal for fan of the show... and for those who insist on signing their te…  fan
+2021-10-09 11:21:15+00:00,Jimbob210712,@nbcbrooklyn99 #BrooklynNineNine #Brooklyn99 What a fantastic end to a fantastic Show! Never missed an Episode...!… https://t.co/GqOUncYI2H,Positive,person   what a fantastic end to a fantastic show! never missed an episode...!…  fan
+2021-10-09 11:20:54+00:00,xoxoCorinne,Brooklyn Nine-Nine's HalloVeen episode is single-handedly one of the greatest episodes of television of all time.… https://t.co/lHS4hbYRQf,Positive,brooklyn nine-nine's halloveen episode is single-handed one of the greatest episodes of television of all time.…  fan
+2021-10-09 10:16:06+00:00,ndechkul,Just watch the finale of #Brooklynninenine and can't stand the scene when the cellist call Jake ugly. Anyone realiz… https://t.co/q451OeynfO,Negative,just watch the final of  and can't stand the scene when the cells call jake ugly. anyone realize…  fan
 2021-10-09 09:33:31+00:00,czarnomskajasmi,"okey, but when they wear FBI OR NYPD jackets they are 1727282 times HOTTER I CANT 🥰
 
-#BrooklynNineNine #Brooklyn99 https://t.co/wTzzcsfYve"
+#BrooklynNineNine #Brooklyn99 https://t.co/wTzzcsfYve",Negative,"obey, but when they wear foi or need jackets they are 1727282 times other i can smiling face with three hearts
+    fan"
 2021-10-09 07:57:50+00:00,WRPLpodcast,"https://t.co/mQpK4QRWyr
-Wow, this is a long one. We might have spent a little too much time reminiscing on… https://t.co/XuPiHO0w3n"
+Wow, this is a long one. We might have spent a little too much time reminiscing on… https://t.co/XuPiHO0w3n",Negative,"fan
+now, this is a long one. we might have spent a little too much time reminiscing on…  fan"
 2021-10-09 07:54:55+00:00,mikky_dahiya,"The ending of #Brooklynninenine is nothing but emotional and fun!
-A perfect #Goodbye 🙂🤓"
-2021-10-09 07:48:25+00:00,BigShow42,Finally got around to watching the finale of #BrooklynNineNine and damn im gonna miss that show. #ninenine
-2021-10-09 06:22:11+00:00,krayzie_vulcan,TO THE NINE NINE!! 🥂 #BrooklynNineNine
+A perfect #Goodbye 🙂🤓",Positive,"the ending of  is nothing but emotional and fun!
+a perfect  slightly smiling faceted face"
+2021-10-09 07:48:25+00:00,BigShow42,Finally got around to watching the finale of #BrooklynNineNine and damn im gonna miss that show. #ninenine,Neutral,finally got around to watching the final of  and damn in donna miss that show.
+2021-10-09 06:22:11+00:00,krayzie_vulcan,TO THE NINE NINE!! 🥂 #BrooklynNineNine,Neutral,to the nine nine!! clinking glasses
 2021-10-09 04:55:01+00:00,tvdbrii,"RT @ranjhaanaaa: Say you'll remember me,
 Standing in a nice dress
 Staring at the sunset, babe...
 
 #BrooklynNineNine 
-#B99 #PERALTIAGO #Jake…"
+#B99 #PERALTIAGO #Jake…",Positive,"it person say you'll remember me,
+standing in a nice dress
+staring at the sunset, babe..."
 2021-10-09 02:29:15+00:00,RomainAmiel,"I don’t want #BrooklynNineNine to eeeeeeeeend! 😭
-It was meant to go for as long as the Simpsons… at least!"
-2021-10-09 01:58:27+00:00,Alexxander_M,Whos cutting onions 😭😭😭😭😭😭 This Convo between holt and Jake bro  #BrooklynNineNine
+It was meant to go for as long as the Simpsons… at least!",Negative,"i don’t want  to eeeeeeeeend! sob
+it was meant to go for as long as the simpson… at least!"
+2021-10-09 01:58:27+00:00,Alexxander_M,Whos cutting onions 😭😭😭😭😭😭 This Convo between holt and Jake bro  #BrooklynNineNine,Negative,who cutting onions sobsobsobsobsobsob this convoy between holt and jake brow
 2021-10-09 01:56:45+00:00,Alexxander_M,"“The one thing you couldn’t figure out was how how to grow up…In the end you finally did.” 
-#BrooklynNineNine https://t.co/E2nUQtuS1d"
-2021-10-09 01:33:23+00:00,Alexxander_M,Y’all brought back everybody/every memory for this last episode 😭 #BrooklynNineNine https://t.co/Zl47805alM
-2021-10-09 01:26:56+00:00,Alexxander_M,“SON OF A BITCH!! THIS A FAKE INTERVIEW!! THIS APART OF THE HEIST”😹😹 #BrooklynNineNine
-2021-10-09 01:24:37+00:00,Alexxander_M,Jake At Home While Amy Workin that new job 😹 #BrooklynNineNine https://t.co/C3woH9jtnT
-2021-10-09 00:29:23+00:00,annawebbyy,#BrooklynNineNine def ended wayyyy too fast
+#BrooklynNineNine https://t.co/E2nUQtuS1d",Neutral,“the one thing you couldn’t figure out was how how to grow up…in the end you finally did.”    fan
+2021-10-09 01:33:23+00:00,Alexxander_M,Y’all brought back everybody/every memory for this last episode 😭 #BrooklynNineNine https://t.co/Zl47805alM,Neutral,y’all brought back everybody/every memory for this last episode sob   fan
+2021-10-09 01:26:56+00:00,Alexxander_M,“SON OF A BITCH!! THIS A FAKE INTERVIEW!! THIS APART OF THE HEIST”😹😹 #BrooklynNineNine,Positive,“son of a bitch!! this a face interview!! this apart of the his”joy catjoy cat
+2021-10-09 01:24:37+00:00,Alexxander_M,Jake At Home While Amy Workin that new job 😹 #BrooklynNineNine https://t.co/C3woH9jtnT,Positive,jake at home while amy working that new job joy cat   fan
+2021-10-09 00:29:23+00:00,annawebbyy,#BrooklynNineNine def ended wayyyy too fast,Positive,def ended wayyyy too fast
 2021-10-08 20:52:38+00:00,RobCoke,"Fans of #BrooklynNineNine and #Cheers – thoughts on my B99/Cheers theory?
 
 Jake = Sam
 Amy = Diane
 Rosa = Carla
-Terr… https://t.co/ZILMI5Diei"
+Terr… https://t.co/ZILMI5Diei",Neutral,"fan of  and  – thoughts on my by/cheers theory?
+
+jake = sam
+amy = dine
+rosa = carl
+term…  fan"
 2021-10-08 19:53:36+00:00,JessAfonso5,"RT @cinnamongmedia: GINA IS BACK, THEY'RE TOGETHER AGAIN 
 
 #BrooklynNineNine #B99 #brooklyn99
 
-https://t.co/rwMxBGh5Mw"
-2021-10-08 19:47:03+00:00,DragonsbroFragZ,SPOILER FREE! Ahh where do I even begin with this show can’t believe it’s been 8 years already I only started watch… https://t.co/OvrxCkFqHc
-2021-10-08 17:03:07+00:00,CharminHeshitha,this one is: Peralta Guaranteed❤️ #Brooklyn99 #brooklynninenine #diehard 😂 https://t.co/Kf37wzpdSd
-2021-10-08 17:01:25+00:00,Jason63533195,Happy turkey day! #BrooklynNineNine #b99spoilers #Brooklyn99
+https://t.co/rwMxBGh5Mw",Neutral,"it person gin is back, they're together again 
+   
+
+ fan"
+2021-10-08 19:47:03+00:00,DragonsbroFragZ,SPOILER FREE! Ahh where do I even begin with this show can’t believe it’s been 8 years already I only started watch… https://t.co/OvrxCkFqHc,Positive,spoiled free! ah where do i even begin with this show can’t believe it’s been 8 years already i only started watch…  fan
+2021-10-08 17:03:07+00:00,CharminHeshitha,this one is: Peralta Guaranteed❤️ #Brooklyn99 #brooklynninenine #diehard 😂 https://t.co/Kf37wzpdSd,Positive,this one is: penalty guaranteedheart    joy  fan
+2021-10-08 17:01:25+00:00,Jason63533195,Happy turkey day! #BrooklynNineNine #b99spoilers #Brooklyn99,Positive,happy turkey day!
 2021-10-08 16:06:12+00:00,RGR_Gaming,"Welcome to the NINE NINE all! 
-I made just for you a FUNCIONAL police station in #thesims4 after the precinct from… https://t.co/QFs0rQLxam"
-2021-10-08 14:53:04+00:00,mathteachermov1,"#deathatthewing #adammckay #hishouse #netflix #brooklynninenine #halloween @ Fairfield, Connecticut https://t.co/rwSd0edZcN"
+I made just for you a FUNCIONAL police station in #thesims4 after the precinct from… https://t.co/QFs0rQLxam",Positive,"welcome to the nine nine all! 
+i made just for you a functional police station in  after the predict from…  fan"
+2021-10-08 14:53:04+00:00,mathteachermov1,"#deathatthewing #adammckay #hishouse #netflix #brooklynninenine #halloween @ Fairfield, Connecticut https://t.co/rwSd0edZcN",Neutral,"@ fairfield, connecticut  fan"
 2021-10-08 14:06:02+00:00,Otakuuukuu,"Where can I fin people to do a Halloween heist with?
-#BrooklynNineNine #b99"
+#BrooklynNineNine #b99",Neutral,where can i in people to do a halloween his with?
 2021-10-08 08:50:56+00:00,ranjhaanaaa,"Say you'll remember me,
 Standing in a nice dress
 Staring at the sunset, babe...
 
 #BrooklynNineNine 
-#B99… https://t.co/cvRJaKi8JT"
+#B99… https://t.co/cvRJaKi8JT",Positive,"say you'll remember me,
+standing in a nice dress
+staring at the sunset, babe...
+     fan"
 2021-10-08 05:15:26+00:00,nuggin,"Here's an idea for Halloween 2021
 
-You can still dress up but instead of going out, you stay at home and watch ever… https://t.co/rpxicumeTm"
-2021-10-08 03:35:56+00:00,mmbfan,"Rewatching the ""Safe House"" episode of #BrooklynNineNine and @iamstephbeatz in the salon kills me every time! The n… https://t.co/vbFvFgJp1o"
-2021-10-07 23:42:58+00:00,shillas15,Really need someone to pick up Brooklyn 99. We need another season #Brooklyn99 #BrooklynNineNine
-2021-10-07 20:55:50+00:00,mcneIIa,RT @nellagugliersi: B99 may have ended but I am on my now eighth rewatch and I have some things to share: my latest piece for Pop Off #Broo…
-2021-10-07 20:55:18+00:00,nellagugliersi,B99 may have ended but I am on my now eighth rewatch and I have some things to share: my latest piece for Pop Off… https://t.co/s6U2zt5hR3
-2021-10-07 20:53:29+00:00,BillsworldYT,Watching Brooklyn Nine Nine right now I love it so much #BrooklynNineNine
-2021-10-07 17:38:04+00:00,AbigailSmith999,Is my anxiety bad or did I just watch the last ever episode of my comfort show? #BrooklynNineNine
-2021-10-07 17:36:55+00:00,cdub4521,First 7 minutes of the final season and it’s already off the rails dumb. #BrooklynNineNine
+You can still dress up but instead of going out, you stay at home and watch ever… https://t.co/rpxicumeTm",Neutral,"here's an idea for halloween 2021
+
+you can still dress up but instead of going out, you stay at home and watch ever…  fan"
+2021-10-08 03:35:56+00:00,mmbfan,"Rewatching the ""Safe House"" episode of #BrooklynNineNine and @iamstephbeatz in the salon kills me every time! The n… https://t.co/vbFvFgJp1o",Positive,"reaching the ""safe house"" episode of  and person in the salon kills me every time! the n…  fan"
+2021-10-07 23:42:58+00:00,shillas15,Really need someone to pick up Brooklyn 99. We need another season #Brooklyn99 #BrooklynNineNine,Positive,really need someone to pick up brooklyn 99. we need another season
+2021-10-07 20:55:50+00:00,mcneIIa,RT @nellagugliersi: B99 may have ended but I am on my now eighth rewatch and I have some things to share: my latest piece for Pop Off #Broo…,Positive,it person by may have ended but i am on my now eighth reach and i have some things to share: my latest piece for pop off
+2021-10-07 20:55:18+00:00,nellagugliersi,B99 may have ended but I am on my now eighth rewatch and I have some things to share: my latest piece for Pop Off… https://t.co/s6U2zt5hR3,Positive,by may have ended but i am on my now eighth reach and i have some things to share: my latest piece for pop off…  fan
+2021-10-07 20:53:29+00:00,BillsworldYT,Watching Brooklyn Nine Nine right now I love it so much #BrooklynNineNine,Positive,watching brooklyn nine nine right now i love it so much
+2021-10-07 17:38:04+00:00,AbigailSmith999,Is my anxiety bad or did I just watch the last ever episode of my comfort show? #BrooklynNineNine,Negative,is my anxiety bad or did i just watch the last ever episode of my comfort show?
+2021-10-07 17:36:55+00:00,cdub4521,First 7 minutes of the final season and it’s already off the rails dumb. #BrooklynNineNine,Negative,first 7 minutes of the final season and it’s already off the rails dumb.

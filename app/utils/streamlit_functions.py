@@ -106,5 +106,5 @@ def show_sentiment_distribution(df_sentiment_column: pd.Series, title):
     sentiment_df = df_sentiment_column.value_counts().to_frame().reset_index()
     sentiment_df.columns = ["sentiment","count"]
     fig = px.pie(sentiment_df, names="sentiment", values="count",
-                 hole=.3)
+                 hole=.3,title=title)
     return fig
