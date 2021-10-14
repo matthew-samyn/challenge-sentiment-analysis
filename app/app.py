@@ -1,5 +1,8 @@
 from PIL import Image
 from utils.streamlit_functions import *
+import streamlit as st
+
+st.set_page_config(layout="wide")
 
 header = st.container()
 plots = st.container()
