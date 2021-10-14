@@ -45,14 +45,16 @@ elif brooklyn_99_button == "Analyze your own favorite show":
             with st.spinner(f"Searching Twitter for {inputted_text}"):
                 df = scrape_twitter([inputted_text])
                 st.success(f"Found {len(df)} relevant tweets")
+            if len(df) == 0:
+                st.write("Please try a different search message.")
+            else:
+                with st.spinner(f"""
+                Processing all tweets
+                """):
+                    df["sentiment"], df["cleaned_tweet"] = \
+                        return_sentiments(df["text"])
+                    st.success(f"Processed {len(df)} tweets")
 
-            with st.spinner(f"""
-            Processing all tweets
-            """):
-                df["sentiment"], df["cleaned_tweet"] = \
-                    return_sentiments(df["text"])
-                st.success(f"Processed {len(df)} tweets")
-
-            fig = show_sentiment_distribution(df["sentiment"], title=f"{inputted_text} sentiment analysis")
-            st.plotly_chart(fig, use_container_width=True)
+                fig = show_sentiment_distribution(df["sentiment"], title=f"{inputted_text} sentiment analysis")
+                st.plotly_chart(fig, use_container_width=True)
 
